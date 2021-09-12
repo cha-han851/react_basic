@@ -1,10 +1,10 @@
-import HelloReact from './components/HelloReact.jsx';
+import Navigation from './components/Navigation.jsx';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <HelloReact></HelloReact>
+      <Navigation/>
     </div>
   );
 }
